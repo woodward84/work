@@ -1,0 +1,48 @@
+*{
+    text-align: center;
+    background-color: khaki;
+}
+h1{
+    color:rgb(45, 30, 180); 
+    background-color: transparent;
+}
+
+h4{
+    background-color: transparent;
+}
+
+.element{
+    background-color:khaki;
+    border: 5px black dotted;
+    
+
+}
+
+.elements{
+    color:black;
+}
+
+#title{
+    color: rgb(255, 0, 191);
+    border: navy 10px double; 
+    border-radius: 10px;
+    border-top-color: red;
+    border-bottom-color: red;
+}
+
+.logo{
+    background-image: url(../img/mac.jpg);
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    border: 3px red solid; 
+}
+
+.photo{
+    border: 3px white solid;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
